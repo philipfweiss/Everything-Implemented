@@ -1,2 +1,4 @@
-## TODO: Implement Matrix Algorithms (using Matrix.rb)
+require './Matrix.rb'
+
+
 
