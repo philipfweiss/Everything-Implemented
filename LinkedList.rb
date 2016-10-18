@@ -57,13 +57,3 @@ class LinkedList
     end
   end
 end
-
-## Let's test the class down here.
-ll = LinkedList.new("Kop")
-10.times do |x|
-  ll.push_node(x)
-end
-
-puts "Fifth node: #{ll.get_node(5)}"
-puts "Size: #{ll.size}"
-ll.print_nodes
