@@ -11,7 +11,11 @@ I'd also ideally like to use these data structures in my other code.
 
 1. AVL Tree
 2. Graph
-3. HeapReg
-  - Priority Queue. 
+3. Regular Heap
+  - PriorityQueue
+4. Binomial Heap
+  - BinomialPQ
 4. LinkedList
 5. LRU Cache
+6. Matrix
+  - Matrix Algorithms
