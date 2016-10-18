@@ -1,7 +1,7 @@
 ## What is this?
 
 I tend to learn the best by implementing things myself. 
-I'd also ideally like to use these data structures in my other code. 
+I'd also ideally like to do a write up on all of these data structures, so other people can learn, too!
 
 ## What has been implemented so far? 
 
