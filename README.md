@@ -20,5 +20,14 @@ I'd also ideally like to use these data structures in my other code.
 8. LRU Cache
 9. Matrix
   - Built In Matrix Algorithms
+10. Sorting
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+  - Radix Sort
+  - Insertion Sort
+  - Smooth Sort
+  - Heap Sort
+  - Bubble Sort
 
 ... and hopefully more!
