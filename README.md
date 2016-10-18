@@ -11,13 +11,14 @@ I'd also ideally like to use these data structures in my other code.
 
 1. AVL Tree
 2. Graph
+  - Built In Graph Algorithms
 3. Regular Heap
-  - PriorityQueue
-4. Binomial Heap
-  - BinomialPQ
-4. LinkedList
-5. LRU Cache
-6. Matrix
-  - Matrix Algorithms
+4. PriorityQueue
+5. Binomial Heap
+6. BinomialPQ
+7. LinkedList
+8. LRU Cache
+9. Matrix
+  - Built In Matrix Algorithms
 
 ... and hopefully more!
