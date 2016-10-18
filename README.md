@@ -19,3 +19,5 @@ I'd also ideally like to use these data structures in my other code.
 5. LRU Cache
 6. Matrix
   - Matrix Algorithms
+
+... and hopefully more!
