@@ -47,6 +47,13 @@ class LinkedList
     cur_node
   end
 
+  def head
+    @head
+  end
+
+  def last
+    @last
+  end
 
   ## Print all the nodes in the LinkedList
   def print_nodes
