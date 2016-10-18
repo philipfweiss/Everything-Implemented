@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="698727de-5ab6-44b2-8ff8-2bb76d445174" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MatrixAlgo.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AVLTree.rb" afterPath="$PROJECT_DIR$/AVLTree.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Matrix.rb" afterPath="$PROJECT_DIR$/Matrix.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreadingPractice.rb" afterPath="$PROJECT_DIR$/ThreadingPractice.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="misc_ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,8 +113,8 @@
       <file leaf-file-name="ThreadingPractice.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ThreadingPractice.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021097047">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.08438819">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -771,12 +767,12 @@
       <created>1476773598413</created>
       <option name="number" value="Default" />
       <updated>1476773598413</updated>
-      <workItem from="1476773600087" duration="4399000" />
+      <workItem from="1476773600087" duration="4443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4399000" />
+    <option name="totallyTimeSpent" value="4443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="188" y="36" width="1277" height="834" extended-state="0" />
@@ -920,8 +916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ThreadingPractice.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021097047">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.08438819">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
