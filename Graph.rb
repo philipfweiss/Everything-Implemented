@@ -1,6 +1,9 @@
 ## TODO: Implement Graph
 
-class Graph
+class AdjMatrixGraph
 
+end
+
+class AdjMatrixGraph
 end
 
