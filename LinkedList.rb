@@ -34,6 +34,10 @@ class LinkedList
     @size+=1
   end
 
+  def get_next(node)
+    node.nil? ? nil : node.next
+  end
+
 
   ## Get the nth node from the LinkedList
   def get_node(int)
