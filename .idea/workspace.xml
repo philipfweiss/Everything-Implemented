@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="698727de-5ab6-44b2-8ff8-2bb76d445174" name="Default" comment="" />
+    <list default="true" id="698727de-5ab6-44b2-8ff8-2bb76d445174" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fun/Alternating.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fun/Google.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fun/modulus.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fun/nondeterm.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fun/sever_sort.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice/DP/WordBreak.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice/DP/WordBreak2.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice/Threading/ThreadingPractice.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice/Threading/ThreadingPractice2.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="misc_ruby.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,21 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Matrix.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Matrix.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Matrix.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sever_sort.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fun/sever_sort.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -143,20 +145,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Everything-Implemented" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc_ruby" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Everything-Implemented" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Fun" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -564,12 +552,12 @@
       <workItem from="1482199510165" duration="16266000" />
       <workItem from="1482961778012" duration="1708000" />
       <workItem from="1486962102404" duration="152000" />
-      <workItem from="1500039613798" duration="30000" />
+      <workItem from="1500039613798" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39860000" />
+    <option name="totallyTimeSpent" value="39926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="168" y="29" width="1272" height="832" extended-state="0" />
@@ -841,18 +829,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Matrix.rb">
+    <entry file="file://$PROJECT_DIR$/Fun/sever_sort.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fun/sever_sort.rb">
+    <entry file="file://$PROJECT_DIR$/Matrix.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
