@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="698727de-5ab6-44b2-8ff8-2bb76d445174" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/Sort/selectionsort.rb" afterPath="$PROJECT_DIR$/Algorithms/Sort/selectionsort.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Challenges/ContainsDuplicate2.rb" afterPath="$PROJECT_DIR$/Challenges/ContainsDuplicate2.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/Sort/quicksort.rb" afterPath="$PROJECT_DIR$/Algorithms/Sort/quicksort.rb" />
     </list>
     <ignored path="misc_ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,11 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectionsort.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selectionsort.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Sort/selectionsort.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quicksort.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Sort/quicksort.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,7 +165,6 @@
         <option value="$PROJECT_DIR$/LinkedList.rb" />
         <option value="$PROJECT_DIR$/LRUCache.rb" />
         <option value="$PROJECT_DIR$/Algorithms/Sort/mergesort.rb" />
-        <option value="$PROJECT_DIR$/Algorithms/Sort/quicksort.rb" />
         <option value="$PROJECT_DIR$/Challenges/LRUCache.rb" />
         <option value="$PROJECT_DIR$/DataStructures/Point.rb" />
         <option value="$PROJECT_DIR$/DataStructures/Line.rb" />
@@ -165,6 +173,7 @@
         <option value="$PROJECT_DIR$/Challenges/SingleNumber.rb" />
         <option value="$PROJECT_DIR$/Challenges/ContainsDuplicate2.rb" />
         <option value="$PROJECT_DIR$/Algorithms/Sort/selectionsort.rb" />
+        <option value="$PROJECT_DIR$/Algorithms/Sort/quicksort.rb" />
       </list>
     </option>
   </component>
@@ -177,7 +186,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="24" />
     <option name="y" value="23" />
-    <option name="width" value="1299" />
+    <option name="width" value="1323" />
     <option name="height" value="832" />
   </component>
   <component name="ProjectView">
@@ -866,15 +875,15 @@
       <workItem from="1482199510165" duration="16266000" />
       <workItem from="1482961778012" duration="1708000" />
       <workItem from="1486962102404" duration="152000" />
-      <workItem from="1500039613798" duration="12473000" />
+      <workItem from="1500039613798" duration="14105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52303000" />
+    <option name="totallyTimeSpent" value="53935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1299" height="832" extended-state="0" />
+    <frame x="24" y="23" width="1323" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -892,7 +901,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24792139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1159,14 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Sort/quicksort.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructures/Fraction.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1215,14 +1216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/SmallestRectangle.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Challenges/LRUCache.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1257,8 +1250,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Sort/selectionsort.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/SmallestRectangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Sort/quicksort.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
